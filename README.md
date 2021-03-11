@@ -63,7 +63,7 @@ Tabela de conteúdos
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Imagem de um App de todo" title="App todo para o desafio 01 do Ignite" src="#" />
+  <img alt="Imagem de um App de todo" title="App todo para o desafio 01 do Ignite" src="https://raw.githubusercontent.com/elianbecali/desafio-conceitos-do-react/main/.github/Macbook-Pro.png" />
 </p>
 
 ---
