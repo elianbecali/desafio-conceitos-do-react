@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Desafio 01 proposto pela @Rocketseat para testar os conhecimentos adquiridos no módulo de fundamentos do ReactJS do Ignite na Trilha de React.
+    Desafio 01 proposto pela @Rocketseat para testar os conhecimentos adquiridos no módulo de fundamentos do ReactJS do Ignite na Trilha de React. [Chapter I]
 </h3>
 
 <p align="center">
